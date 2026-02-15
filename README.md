@@ -15,7 +15,6 @@ I'm a Master's student in **Embedded Systems (ISSAT Sousse)** specializing in:
 - **RALL‑P V2 all‑terrain autonomous robot**  
   Embedded control and ROS 2 integration for an outdoor mobile robot (PFE @ OORB startup).
 
-*(Add links once repos are public.)*
 
 ## 🛠 Tech stack
 
