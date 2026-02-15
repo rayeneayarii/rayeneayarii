@@ -26,5 +26,5 @@ I'm a Master's student in **Embedded Systems (ISSAT Sousse)** specializing in:
 
 ## 📫 Contact
 
-- LinkedIn: [your‑link]([https://www.linkedin.com/in/...](https://www.linkedin.com/in/rayene-ayarii/?locale=fr))
+- LinkedIn: [([https://www.linkedin.com/in/...](https://www.linkedin.com/in/rayene-ayarii/?locale=fr))
 - Email: rayene.ayari03@gmail.com
